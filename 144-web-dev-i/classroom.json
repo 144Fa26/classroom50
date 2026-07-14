@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "144 Web Dev I",
+  "short_name": "144-web-dev-i",
+  "term": "Fall 2026",
+  "org": "144Fa26",
+  "team": {
+    "id": 18478197,
+    "slug": "classroom50-144-web-dev-i"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18478198,
+      "slug": "classroom50-144-web-dev-i-instructor"
+    },
+    "ta": {
+      "id": 18478199,
+      "slug": "classroom50-144-web-dev-i-ta"
+    }
+  }
+}
