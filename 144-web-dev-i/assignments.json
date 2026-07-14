@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "tutorial-1-notes",
+      "name": "Tutorial 1 Notes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "144Fa26",
+        "repo": "Tutorial1Notes",
+        "branch": "main"
+      }
+    }
+  ]
 }
