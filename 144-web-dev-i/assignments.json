@@ -60,6 +60,18 @@
         "repo": "tutorial5notes",
         "branch": "main"
       }
+    },
+    {
+      "slug": "tutorial-6-notes",
+      "name": "Tutorial 6 Notes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "144Fa26",
+        "repo": "tutorial6notes",
+        "branch": "main"
+      }
     }
   ]
 }
