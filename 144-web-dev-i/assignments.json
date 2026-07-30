@@ -48,6 +48,18 @@
         "repo": "tutorial4notes",
         "branch": "main"
       }
+    },
+    {
+      "slug": "tutorial-5-notes",
+      "name": "Tutorial 5 Notes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "144Fa26",
+        "repo": "tutorial5notes",
+        "branch": "main"
+      }
     }
   ]
 }
