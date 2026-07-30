@@ -12,6 +12,18 @@
         "repo": "Tutorial1Notes",
         "branch": "main"
       }
+    },
+    {
+      "slug": "tutorial-2-notes",
+      "name": "Tutorial 2 Notes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "144Fa26",
+        "repo": "tutorial2notes",
+        "branch": "main"
+      }
     }
   ]
 }
