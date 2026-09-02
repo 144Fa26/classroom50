@@ -14,18 +14,6 @@
       }
     },
     {
-      "slug": "tutorial-4-notes",
-      "name": "Tutorial 4 Notes",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "144Fa26",
-        "repo": "tutorial4notes",
-        "branch": "main"
-      }
-    },
-    {
       "slug": "tutorial-5-notes",
       "name": "Tutorial 5 Notes",
       "mode": "individual",
@@ -72,6 +60,20 @@
       "template": {
         "owner": "144Fa26",
         "repo": "tutorial3notes",
+        "branch": "main"
+      },
+      "student_permission": "admin",
+      "repo_visibility": "public"
+    },
+    {
+      "slug": "tutorial-4-notes",
+      "name": "Tutorial 4 Notes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "144Fa26",
+        "repo": "tutorial4notes",
         "branch": "main"
       },
       "student_permission": "admin",
